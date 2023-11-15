@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MissingNumber", "MissingNumber\MissingNumber.csproj", "{B55B8304-7F73-4A53-8CAF-403BC7D63E99}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sherlock and the beast", "Sherlock and the beast\Sherlock and the beast.csproj", "{6D72C8EB-83B8-4CC7-8372-FC2480BB67DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B55B8304-7F73-4A53-8CAF-403BC7D63E99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B55B8304-7F73-4A53-8CAF-403BC7D63E99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B55B8304-7F73-4A53-8CAF-403BC7D63E99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D72C8EB-83B8-4CC7-8372-FC2480BB67DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D72C8EB-83B8-4CC7-8372-FC2480BB67DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D72C8EB-83B8-4CC7-8372-FC2480BB67DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D72C8EB-83B8-4CC7-8372-FC2480BB67DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
