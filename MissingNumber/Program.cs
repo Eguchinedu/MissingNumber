@@ -17,7 +17,6 @@ class MissingNumberSolution
         return missingNum;
     }
 
-    // The main method where the program starts execution
     static void Main()
     {
         
@@ -28,7 +27,7 @@ class MissingNumberSolution
         int[] nums2 = { 0, 1 };
         Console.WriteLine("Missing Num is: " + MissingNumber(nums2));
 
-        // Example 3
+        
         int[] nums3 = { 9, 6, 4, 2, 3, 5, 7, 0, 1 };
         Console.WriteLine("Missing Num is: " + MissingNumber(nums3));
     }
